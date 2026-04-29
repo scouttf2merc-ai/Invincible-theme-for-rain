@@ -1,6 +1,6 @@
 {
-    "name": "Invincible",
-    "description": "Balanced Cyan and Yellow Theme",
+    "name": "Invincible Mobile",
+    "description": "Cyan and Yellow optimized for Raincord Mobile",
     "authors": [
         {
             "name": "co_mannds",
@@ -10,23 +10,23 @@
     "semanticColors": {
         "HEADER_PRIMARY": ["#ffe556"],
         "HEADER_SECONDARY": ["#00bcf0"],
+        "MOBILE_TEXT_HEADING_PRIMARY": ["#ffe556"],
         "TEXT_NORMAL": ["#f2f2f2"],
         "TEXT_MUTED": ["#a3a3a3"],
         "INTERACTIVE_HOVER": ["#00bcf0"],
         "INTERACTIVE_ACTIVE": ["#ffe556"],
-        "BACKGROUND_PRIMARY": ["#1a1a1a"],
-        "BACKGROUND_SECONDARY": ["#141414"],
+        "BACKGROUND_PRIMARY": ["#111111"],
+        "BACKGROUND_SECONDARY": ["#111111"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#111111"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
         "BACKGROUND_ACCENT": ["#ffe556"],
+        "BACKGROUND_FLOATING": ["#141414"],
         "BACKGROUND_MESSAGE_HOVER": ["#252525"],
-        "SCROLLBAR_AUTO_THUMB": ["#00bcf0"],
         "CHANNELTEXTAREA_BACKGROUND": ["#252525"],
         "CHANNELS_DEFAULT": ["#ffe556"],
         "CHANNEL_ICON": ["#ffe556"],
         "TEXT_LINK": ["#00bcf0"],
-        "TEXT_DANGER": ["#ff4d4d"],
-        "MENTION_HIGHLIGHT": ["#ffe55633"],
-        "BACKGROUND_MENTIONED": ["#ffe5561a"],
-        "BACKGROUND_MENTIONED_HOVER": ["#ffe55626"]
+        "TEXT_DANGER": ["#ff4d4d"]
     },
     "rawColors": {
         "PRIMARY_500": "#ffe556",
@@ -34,17 +34,19 @@
         "BRAND_260": "#ffe556",
         "BRAND_360": "#00bcf0",
         "YELLOW_300": "#ffe556",
-        "RED_400": "#ff4d4d",
-        "BLUE_430": "#00bcf0",
         "PLUM_16": "#ffe556",
         "PLUM_13": "#00bcf0",
-        "STATUS_DANGER": "#ff4d4d"
+        "PLUM_17": "#111111",
+        "PLUM_20": "#111111"
     },
     "plus": {
         "version": "1",
         "iconpack": "rosiecord-plumpy"
     },
     "spec": 2
+}
+
+ 2
 }
 
 ersion": "1",
