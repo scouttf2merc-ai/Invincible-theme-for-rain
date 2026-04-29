@@ -1,6 +1,6 @@
 {
     "name": "Invincible",
-    "description": "Theme based on Invincible (Mark Grayson)",
+    "description": "Balanced Cyan and Yellow Theme",
     "authors": [
         {
             "name": "co_mannds",
@@ -8,42 +8,46 @@
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": ["#ffffff"],
-        "HEADER_SECONDARY": ["#ffe556"],
+        "HEADER_PRIMARY": ["#ffe556"],
+        "HEADER_SECONDARY": ["#00bcf0"],
         "TEXT_NORMAL": ["#f2f2f2"],
         "TEXT_MUTED": ["#a3a3a3"],
         "INTERACTIVE_HOVER": ["#00bcf0"],
         "INTERACTIVE_ACTIVE": ["#ffe556"],
         "BACKGROUND_PRIMARY": ["#1a1a1a"],
         "BACKGROUND_SECONDARY": ["#141414"],
-        "BACKGROUND_SECONDARY_ALT": ["#0e0e0e"],
         "BACKGROUND_ACCENT": ["#ffe556"],
-        "BACKGROUND_FLOATING": ["#0e0e0e"],
         "BACKGROUND_MESSAGE_HOVER": ["#252525"],
         "SCROLLBAR_AUTO_THUMB": ["#00bcf0"],
-        "SCROLLBAR_AUTO_TRACK": ["#141414"],
         "CHANNELTEXTAREA_BACKGROUND": ["#252525"],
         "CHANNELS_DEFAULT": ["#ffe556"],
         "CHANNEL_ICON": ["#ffe556"],
         "TEXT_LINK": ["#00bcf0"],
         "TEXT_DANGER": ["#ff4d4d"],
-        "MENTION_HIGHLIGHT": ["#ffe55633"]
+        "MENTION_HIGHLIGHT": ["#ffe55633"],
+        "BACKGROUND_MENTIONED": ["#ffe5561a"],
+        "BACKGROUND_MENTIONED_HOVER": ["#ffe55626"]
     },
     "rawColors": {
         "PRIMARY_500": "#ffe556",
-        "PRIMARY_300": "#ffe556",
         "BRAND_500": "#00bcf0",
         "BRAND_260": "#ffe556",
         "BRAND_360": "#00bcf0",
         "YELLOW_300": "#ffe556",
-        "WHITE_500": "#ffffff",
-        "PLUM_20": "#1a1a1a",
-        "PLUM_17": "#141414",
+        "RED_400": "#ff4d4d",
+        "BLUE_430": "#00bcf0",
         "PLUM_16": "#ffe556",
-        "PLUM_13": "#ffe556"
+        "PLUM_13": "#00bcf0",
+        "STATUS_DANGER": "#ff4d4d"
     },
     "plus": {
         "version": "1",
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
+
+ersion": "1",
         "iconpack": "rosiecord-plumpy"
     },
     "spec": 2
