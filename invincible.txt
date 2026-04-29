@@ -1,6 +1,6 @@
 {
-    "name": "Invincible",
-    "description": "invincible theme based on the show on prime video",
+    "name": "rain",
+    "description": "Theme for rain",
     "authors": [
         {
             "name": "co_mannds",
@@ -36,19 +36,19 @@
             "#050505"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0a0a0a"
+            "#050505"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#111111"
+            "#0a0a0a"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#141414"
+            "#0a0a0a"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#161616"
+            "#111111"
         ],
         "BACKGROUND_TERTIARY": [
-            "#161616"
+            "#111111"
         ],
         "BACKGROUND_ACCENT": [
             "#ffe556"
@@ -57,28 +57,28 @@
             "#050505"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0a0a0a"
+            "#050505"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0a0a0a"
+            "#050505"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#050505"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#161616"
+            "#111111"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1a1a1a"
+            "#111111"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1a1a1a"
+            "#111111"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1a1a1a"
+            "#111111"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#0a0a0a"
+            "#050505"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#00bcf0"
@@ -93,7 +93,7 @@
             "#00bcf0"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1a1a1a"
+            "#111111"
         ],
         "CHANNELS_DEFAULT": [
             "#ffe556"
@@ -105,13 +105,13 @@
             "#ff4d4d"
         ],
         "KEYBOARD": [
-            "#0a0a0a"
+            "#050505"
         ],
         "BG_BACKDROP": [
             "#000000B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#111111"
+            "#0a0a0a"
         ],
         "CHANNEL_ICON": [
             "#ffe556"
@@ -120,7 +120,7 @@
             "#050505"
         ],
         "CARD_PRIMARY_BG": [
-            "#111111"
+            "#0a0a0a"
         ]
     },
     "rawColors": {
@@ -145,10 +145,10 @@
         "RED_400": "#ff4d4d",
         "WHITE_500": "#e0f7ff",
         "GREEN_360": "#605d91",
-        "PLUM_23": "#111111",     
-        "PLUM_20": "#0a0a0a",
-        "PLUM_18": "#0a0a0a",
-        "PLUM_17": "#0a0a0a",
+        "PLUM_23": "#0a0a0a",     
+        "PLUM_20": "#050505",
+        "PLUM_18": "#050505",
+        "PLUM_17": "#050505",
         "PLUM_16": "#ffe556",
         "PLUM_13": "#00bcf0",
         "PLUM_10": "#ffe556",
@@ -158,6 +158,11 @@
     "plus": {
         "version": "0",
         "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
+
+osiecord-plumpy"
     },
     "spec": 2
 }
