@@ -1,0 +1,49 @@
+{
+    "name": "Invincible",
+    "description": "Theme based on Invincible (Mark Grayson)",
+    "authors": [
+        {
+            "name": "co_mannds",
+            "id": "1003238590253387796"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["#ffffff"],
+        "HEADER_SECONDARY": ["#ffe556"],
+        "TEXT_NORMAL": ["#f2f2f2"],
+        "TEXT_MUTED": ["#a3a3a3"],
+        "INTERACTIVE_HOVER": ["#00bcf0"],
+        "INTERACTIVE_ACTIVE": ["#ffe556"],
+        "BACKGROUND_PRIMARY": ["#1a1a1a"],
+        "BACKGROUND_SECONDARY": ["#141414"],
+        "BACKGROUND_SECONDARY_ALT": ["#0e0e0e"],
+        "BACKGROUND_ACCENT": ["#00bcf0"],
+        "BACKGROUND_FLOATING": ["#0e0e0e"],
+        "BACKGROUND_MESSAGE_HOVER": ["#252525"],
+        "SCROLLBAR_AUTO_THUMB": ["#00bcf0"],
+        "SCROLLBAR_AUTO_TRACK": ["#141414"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#252525"],
+        "CHANNELS_DEFAULT": ["#00bcf0"],
+        "TEXT_LINK": ["#00bcf0"],
+        "TEXT_DANGER": ["#ff4d4d"],
+        "MENTION_HIGHLIGHT": ["#ffe55633"]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#00bcf0",
+        "PRIMARY_300": "#00bcf0",
+        "BRAND_500": "#00bcf0",
+        "BRAND_260": "#ffe556",
+        "BRAND_360": "#00bcf0",
+        "YELLOW_300": "#ffe556",
+        "WHITE_500": "#ffffff",
+        "PLUM_20": "#1a1a1a",
+        "PLUM_17": "#141414",
+        "PLUM_16": "#00bcf0",
+        "PLUM_13": "#ffe556"
+    },
+    "plus": {
+        "version": "1",
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
